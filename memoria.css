@@ -1,0 +1,97 @@
+#A:hover{
+	background-image:url('imagenes/foco.jpg');
+	width: 200px;
+	height: 200px;
+	transform:rotateY(180deg);
+}
+#A{
+	background-image:url('imagenes/portada.jpg');
+	width: 200px;
+	height: 200px;
+	transition: 3s;
+}	
+#R{
+	background-image:url('imagenes/portada.jpg');
+	width: 200px;
+	height: 200px;
+	transition: 3s;
+}	
+#R:hover{
+	background-image:url('imagenes/cerebro.jpg');
+	width: 200px;
+	height: 200px;	
+	transform:rotateY(180deg);
+}	
+#C{
+	background-image:url('imagenes/portada.jpg');
+	width: 200px;
+	height: 200px;
+	transition: 3s;
+}	
+#C:hover{
+	background-image:url('imagenes/colores.jpg');
+	width: 200px;
+	height: 200px;	
+	transform:rotateY(180deg);	
+}	
+#T{
+	background-image:url('imagenes/portada.jpg');
+	width: 200px;
+	height: 200px;
+	transition: 3s;
+}	
+#T:hover{
+	background-image:url('imagenes/juguito.jpg');
+	width: 200px;
+	height: 200px;
+	transform:rotateY(180deg);	
+}	
+#I{
+	background-image:url('imagenes/portada.jpg');
+	width: 200px;
+	height: 200px;
+	transition: 3s;
+}	
+#I:hover{
+	background-image:url('imagenes/corazon.jpg');
+	width: 200px;
+	height: 200px;
+	transform:rotateY(180deg);	
+}	
+#S{
+	background-image:url('imagenes/portada.jpg');
+	width: 200px;
+	height: 200px;
+	transition: 3s;
+}	
+#S:hover{
+	background-image:url('imagenes/cereal.jpg');
+	width: 200px;
+	height: 200px;
+	transform:rotateY(180deg);	
+}
+header{
+background-image:url('imagenes/header.jpg');
+height:80px;
+width:1465px;
+} 
+.btn{
+  color: #006699 ;
+  background-color:#B5E2CE ;
+  font-size:25px; 
+  align-self:center;
+  font-family:'fantasy',MS Courier New;  
+  font-weight:25px;  
+}
+div{
+text-align:center;
+}
+h1{
+  font-family:'fantasy',MS Courier New;
+  text-align:center; 
+}
+div{ 
+	margin:auto;
+}
+u{
+color:#006699 ; 
